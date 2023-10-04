@@ -48,11 +48,12 @@ Installing the NVIDIA driver on Ubuntu may require some manual steps. Here's a g
 2. **Installing NVIDIA Driver**:
    - Follow this [video tutorial](https://youtube.com/watch?v=GljujCLixzE&t=569s) for step-by-step instructions on installing the NVIDIA driver.
 
-   - Make sure to double-check the associated [GitHub link](<GitHub_Link>) provided in the video for additional information.
+   - Make sure to double-check the associated [GitHub link](https://gist.github.com/hangsong/c0c3839ebfea7b683287db539785bc10) provided in the video for additional information.
 
 3. **Troubleshooting**:
-   - If you encounter any issues with your display, you can try the following:
-     - Press `CTRL + ALT + F1` to access the lock screen or TTY.
+   - If you encounter any issues with your black display, you can try the following:
+     - Press `CTRL + ALT + (F1 or F2 or F3 or F4 or F5 or F6)` to access the lock screen or TTY.
+     - Login into your account
      - Adjust your GRUB settings, adding or removing `nomodeset`.
      - Update GRUB and reboot your system.
 
