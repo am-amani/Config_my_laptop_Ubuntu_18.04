@@ -1,5 +1,5 @@
-# Config_my_laptop_Ubuntu_18.04
-This repository is for installing NVIDIA driver and other related drivers (bluetooth and etc.) to install on Ubuntu 18.04 LTS
+# Config_my_laptop_Ubuntu_18.04.06 LTS
+This repository is for installing NVIDIA driver and other related drivers (bluetooth and etc.) to install on Ubuntu 18.04.06 LTS
 
 ## Bluetooth
 
